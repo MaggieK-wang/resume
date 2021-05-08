@@ -1,0 +1,16 @@
+#eudcation-section .row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#eudcation-section .row .item {
+  margin-bottom: 45px;
+}
+
+#eudcation-section .row .item .degree {
+  font-size: 18px;
+  color: #00BCD4;
+  margin-top: 0;
+  margin-bottom: 0px;
+}
